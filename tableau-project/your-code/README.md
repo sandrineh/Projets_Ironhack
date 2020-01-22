@@ -1,6 +1,6 @@
-<img src="logo.png" alt="Logo_tableau" style="width: 100px;"/>
+<img src="logo.png" alt="Logo_tableau" style="width: 60px;"/>
 
-# Projet Tableau [https://public.tableau.com/profile/sandrine.henry#!/vizhome/marchspublics/Histoire1?publish=yes] 
+# [Projet Tableau] (https://public.tableau.com/profile/sandrine.henry#!/vizhome/marchspublics/Histoire1?publish=yes)
 
 
 ## Choix du dataset : 
