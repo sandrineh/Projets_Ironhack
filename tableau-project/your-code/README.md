@@ -1,6 +1,7 @@
 <img src="logo.png" alt="Logo_tableau" style="width: 30px;"/>
 
-# Projet Tableau (https://public.tableau.com/profile/sandrine.henry#!/vizhome/marchspublics/Histoire1?publish=yes)[Voir le projet Tableau]
+# Projet Tableau
+[Voir le projet Tableau](https://public.tableau.com/profile/sandrine.henry#!/vizhome/marchspublics/Histoire1?publish=yes)
 
 ## Objectif : 
 Mettre en pratique les compétences acquises en Business Intelligence à l'aide du logiciel Tableau avec le dataset de notre choix.
