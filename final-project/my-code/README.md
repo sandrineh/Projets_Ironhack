@@ -62,9 +62,5 @@ Overview the general steps you will go through to analyze your data in order to 
 	* Try advanced techniques and see if they improve the result.
 
 ## Conclusion
-![WebApp_Prediction_instagram](images/le_test_ultime.png)
-
-* Summarize your data analysis result.
-* State your conclusion of your hypothesis testing.
-* Interpret your findings in terms of the human-understandable question you try to answer.
-* What are the next steps?
+<a href="https://sandrineh.github.io/docs/Projet_Ironhack_Final_Janvier_2020.pdf">Présentation du projet</a>
+<a href="https://eleonoreh.pythonanywhere.com/">![WebApp_Prediction_instagram](images/le_test_ultime.png)</a>
