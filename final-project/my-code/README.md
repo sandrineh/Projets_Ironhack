@@ -49,18 +49,17 @@ Overview the general steps you will go through to analyze your data in order to 
 
 ### Data Exploration and Visualization
 
-* Document each step of your data exploration and analysis.
-* Print charts to demonstrate the effect of your work. Charts make your presentation look good too.
-* If you use ML in your final project, also describe your feature selection process.
+1. Data Exploraion et Analyse <a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb">Etapes 1 à 4</a><br/>
+
+2. Datavisualisation : <a href="https://public.tableau.com/profile/sandrine.henry#!/vizhome/Ironhack_Instragram_project/Unmoisdepublications?publish=yes">Tableau Public</a>
+
 
 ### Model Training and Evaluation
 
-* Train your ML model, produce results, and evaluate.
-* This is an iterative process. Try your best to improve your model performance by:
-	* More data cleaning.
-	* Try different models and select one that is the simplest yet produce the best result.
-	* Try advanced techniques and see if they improve the result.
+<a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb">Etapes 4 à 12</a>
+
 
 ## Conclusion
-<a href="https://sandrineh.github.io/docs/Projet_Ironhack_Final_Janvier_2020.pdf">Présentation du projet</a>
+1. Présentation du projet : <a href="https://sandrineh.github.io/docs/Projet_Ironhack_Final_Janvier_2020.pdf">Here</a>
+2. Tester l'outil de prédiction : <a href="https://eleonoreh.pythonanywhere.com/">Here</a><br/>
 <a href="https://eleonoreh.pythonanywhere.com/">![WebApp_Prediction_instagram](images/le_test_ultime.png)</a>
