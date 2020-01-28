@@ -38,7 +38,7 @@ Au final je me suis retrouvée avec un dataset de 23K publications (lignes) et 2
 
 ### Data Storage
 
-**Dataset** : <a href="https://github.com/sandrineh/data-labs/tree/master/final-project/my-code/data">projet_ironhack_insta_final.csv</a>
+**Dataset** : <a href="https://github.com/sandrineh/data-labs/tree/master/final-project/my-code/data" target="_blank">projet_ironhack_insta_final.csv</a>
 
 
 ## Data Analysis
@@ -49,17 +49,17 @@ Overview the general steps you will go through to analyze your data in order to 
 
 ### Data Exploration and Visualization
 
-1. Data Exploraion et Analyse <a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb">Etapes 1 à 4</a><br/>
+1. Data Exploraion et Analyse <a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb" target="_blank">Etapes 1 à 4</a><br/>
 
-2. Datavisualisation : <a href="https://public.tableau.com/profile/sandrine.henry#!/vizhome/Ironhack_Instragram_project/Unmoisdepublications?publish=yes">Tableau Public</a>
+2. Datavisualisation : <a href="https://public.tableau.com/profile/sandrine.henry#!/vizhome/Ironhack_Instragram_project/Unmoisdepublications?publish=yes" target="_blank">Tableau Public</a>
 
 
 ### Model Training and Evaluation
 
-<a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb">Etapes 4 à 12</a>
+<a href="https://github.com/sandrineh/data-labs/blob/master/final-project/my-code/PROJET_FINAL_ETAPE_MACHINE_LEARNING.ipynb" target="_blank">Etapes 4 à 12</a>
 
 
 ## Conclusion
-1. Présentation du projet : <a href="https://sandrineh.github.io/docs/Projet_Ironhack_Final_Janvier_2020.pdf">Here</a>
-2. Tester l'outil de prédiction : <a href="https://eleonoreh.pythonanywhere.com/">Here</a><br/>
-<a href="https://eleonoreh.pythonanywhere.com/">![WebApp_Prediction_instagram](images/le_test_ultime.png)</a>
+1. Présentation du projet : <a href="https://sandrineh.github.io/docs/Projet_Ironhack_Final_Janvier_2020.pdf" target="_blank">Here</a>
+2. Tester l'outil de prédiction : <a href="https://eleonoreh.pythonanywhere.com/" target="_blank">Here</a><br/>
+<a href="https://eleonoreh.pythonanywhere.com/" target="_blank">![WebApp_Prediction_instagram](images/le_test_ultime.png)</a>
